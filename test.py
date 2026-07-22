@@ -1,1 +1,1 @@
-print("Hello, vidhi prince patel", 2026, lovers)
+print("Hello, vidhi prince patel", 2025)
